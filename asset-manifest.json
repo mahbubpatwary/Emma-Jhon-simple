@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Emma-Jhon-simple/static/css/main.192aed42.chunk.css",
+    "main.js": "/Emma-Jhon-simple/static/js/main.456db2d2.chunk.js",
+    "main.js.map": "/Emma-Jhon-simple/static/js/main.456db2d2.chunk.js.map",
+    "runtime-main.js": "/Emma-Jhon-simple/static/js/runtime-main.59f64611.js",
+    "runtime-main.js.map": "/Emma-Jhon-simple/static/js/runtime-main.59f64611.js.map",
+    "static/js/2.ce3fd3e9.chunk.js": "/Emma-Jhon-simple/static/js/2.ce3fd3e9.chunk.js",
+    "static/js/2.ce3fd3e9.chunk.js.map": "/Emma-Jhon-simple/static/js/2.ce3fd3e9.chunk.js.map",
+    "static/js/3.7b77effc.chunk.js": "/Emma-Jhon-simple/static/js/3.7b77effc.chunk.js",
+    "static/js/3.7b77effc.chunk.js.map": "/Emma-Jhon-simple/static/js/3.7b77effc.chunk.js.map",
+    "index.html": "/Emma-Jhon-simple/index.html",
+    "static/css/main.192aed42.chunk.css.map": "/Emma-Jhon-simple/static/css/main.192aed42.chunk.css.map",
+    "static/js/2.ce3fd3e9.chunk.js.LICENSE.txt": "/Emma-Jhon-simple/static/js/2.ce3fd3e9.chunk.js.LICENSE.txt",
+    "static/media/logo.0dd9a510.png": "/Emma-Jhon-simple/static/media/logo.0dd9a510.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f64611.js",
+    "static/js/2.ce3fd3e9.chunk.js",
+    "static/css/main.192aed42.chunk.css",
+    "static/js/main.456db2d2.chunk.js"
+  ]
+}
